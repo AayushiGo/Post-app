@@ -23,7 +23,7 @@ A full-stack post app built using Node.js, Express, MongoDB, and EJS. This app a
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/nodejs-post-app.git
+   git clone https://github.com/AayushiGo/nodejs-post-app.git
    cd nodejs-post-app
 Install dependencies
 
